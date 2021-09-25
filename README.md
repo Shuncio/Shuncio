@@ -10,7 +10,7 @@ I am a young Polish programmer who is aspiring to be one of the best in many fie
   - master the ES7+ standard
   - achieve freely moving in React area
 
-### Languages and tools I understand:
+### Languages and tools I work with:
 <img align="left" alt="HTML5" width="26px" src="./html.svg" />
 <img align="left" alt="CSS3" width="26px" src="./css.svg" />
 <img align="left" alt="Bootstrap" width="26px" src="./bootstrap.svg" />
