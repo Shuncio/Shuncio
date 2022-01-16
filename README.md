@@ -5,9 +5,9 @@ I am a young Polish programmer who is aspiring to be one of the best in many fie
 - 📫 You can catch me via GitHub or email - pplonka@protonmail.ch
 - 🌱 currently learning React library
 - 🔭 at the moment working on React hand-held note app
-- 🥅 The rest of 2021 goals: 
+- 🥅 2022 goals: 
   - start to contribute to FOSS projects
-  - master the ES7+ standard
+  - master the ES6+ standard
   - achieve freely moving in React area
 
 ### Languages and tools I work with:
