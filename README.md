@@ -4,7 +4,7 @@ I am a young Polish programmer who is aspiring to be one of the best in many fie
 
 - 📫 You can catch me via GitHub, Discord - <b>Shuncio#4411</b> or e-mail - pplonka@protonmail.ch
 - 🌱 currently learning React library
-- 🔭 at the moment working on React currency converter app with usage of external API
+- 🔭 at the moment working on React currency converter app with usage of an external API
 - 🥅 2022 goals: 
   - start to contribute to FOSS projects
   - master the ES6+ standard
