@@ -2,7 +2,7 @@
 
 I am a young Polish programmer who is aspiring to be one of the best in many fields (especially in IT) - to be a Renaissance man!
 
-- 📫 You can catch me via GitHub or email - pplonka@protonmail.ch
+- 📫 You can catch me via GitHub, Discord - <b>Shuncio#4411</b> or e-mail - pplonka@protonmail.ch
 - 🌱 currently learning React library
 - 🔭 at the moment working on React hand-held note app
 - 🥅 2022 goals: 
