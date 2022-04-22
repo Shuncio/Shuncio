@@ -12,7 +12,7 @@ const currentTask = 'currently I work on React currency converter app with usage
 ---
 
 
-I create **websites** and **web apps**. If you need and kind of help it will be a pleasure for me to give it to you!
+I create **websites** and **web apps**. If you need any kind of help it will be a pleasure for me to give it to you!
 ```javascript
 const programmingLangs = ['HTML', 'CSS', 'ES6'];
 ```
