@@ -19,7 +19,7 @@ const programmingLangs = ['HTML', 'CSS/SCSS', 'ES6+'];
 
 I want to continue mastering these great **technologies**:
 ```javascript
-const codeTechnologies = ['React.js', 'Node.js', 'XML', 'Git', 'NPM', 'Bash', 'Linux'];
+const codeTechnologies = ['React.js', 'jQuery', 'Node.js', 'JSON', 'XML', 'Git', 'NPM', 'Bash', 'Linux'];
 ```
 
 
