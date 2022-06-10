@@ -14,12 +14,16 @@ const currentTask = 'currently I work on React currency converter app with usage
 
 I create **websites** and **web apps**. If you need any kind of help it will be a pleasure for me to give it to you!
 ```javascript
-const programmingLangs = ['HTML', 'CSS/SCSS', 'ES6+'];
+const frontendStack = ['HTML', 'CSS', 'ES6+', 'jQuery'];
+```
+
+```javascript
+const backendStack = ['Node.js', 'Express.js'];
 ```
 
 I want to continue mastering these great **technologies**:
 ```javascript
-const codeTechnologies = ['React.js', 'jQuery', 'Node.js', 'JSON', 'XML', 'Git', 'NPM', 'Bash', 'Linux'];
+const codeTechnologies = ['Git', 'JSON', 'XML', 'NPM', 'Bash', 'Linux'];
 ```
 
 
