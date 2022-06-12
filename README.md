@@ -1,4 +1,4 @@
-Hi, I am Shuncio, a young Polish programmer who is **aspiring** to be **one of the best** in many fields (especially in IT) - to be a **Renaissance man**. I am in absolutely love with **history**, **JavaScript** (and its libraries) & **Pax Europaea age**! In love with the Airbnb JavaScript style guide.
+Hi, I am Shuncio, a young Polish programmer who is **aspiring** to be **one of the best** in many fields (especially in IT) - to be a **Renaissance man**. I am in absolutely love with **history**, **JavaScript** (and its libraries) & **Pax Europaea age**! Being in love with the Airbnb JavaScript style guide.
 
 ```javascript
 const goal = 'be a frontend developer.';
