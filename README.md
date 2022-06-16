@@ -14,7 +14,7 @@ const currentTask = 'currently I work on React currency converter app with usage
 
 I create **websites** and **web apps**. If you need any kind of help, it will be a pleasure for me to give it to you!
 ```javascript
-const frontendStack = ['HTML', 'CSS', 'ES6+', 'jQuery'];
+const frontendStack = ['HTML', 'CSS', 'Bootstrap', 'ES6+', 'jQuery'];
 ```
 
 ```javascript
